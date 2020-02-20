@@ -1,0 +1,23 @@
+{
+  "name": "slack-autoresponder",
+  "version": "1.0.0",
+  "description": "Learning to build API funkyu things",
+  "main": "index.js",
+  "dependencies": {
+    "dotenv": "^8.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AdvanceParty/slack-autoresponder.git"
+  },
+  "author": "Gil Fewster <gil@theroyals.com.au> (http://theroyals.com.au/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AdvanceParty/slack-autoresponder/issues"
+  },
+  "homepage": "https://github.com/AdvanceParty/slack-autoresponder#readme"
+}
